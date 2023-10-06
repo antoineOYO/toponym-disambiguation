@@ -1,0 +1,1351 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1103> skos:prefLabel "AGEN" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1103-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1103-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1103-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1103-place-4> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1279> skos:prefLabel "Aigle" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1279-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1279-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1279-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1279-place-4> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1497> skos:prefLabel "AIX" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1497-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1497-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1497-place-3> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1498> skos:prefLabel "Aix" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1498-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1498-place-2> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1499> skos:prefLabel "Aix" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1499-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1499-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1499-place-3> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-2233> skos:prefLabel "AMIENS" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-2233-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-2233-place-2> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-2689> skos:prefLabel "ANGERS" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-2689-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-2689-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-2689-place-3> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-2717> skos:prefLabel "ANGOULEME" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-2717-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-2717-place-2> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-3583> skos:prefLabel "ARBOIS" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-3583-place-1> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-4029> skos:prefLabel "ARNOULD" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-4029-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-4029-place-2> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-4977> skos:prefLabel "AVIGNON" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-4977-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-4977-place-2> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-5076> skos:prefLabel "AURILLAC" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-5076-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-5076-place-2> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-5155> skos:prefLabel "AUXERRE" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-5155-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-5155-place-2> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-1783> skos:prefLabel "BESANÇON" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-1783-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-1783-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-1783-place-3> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-240> skos:prefLabel "Baione, dite Baïona de Galizia" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-240-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-240-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-240-place-3> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3237> skos:prefLabel "BOURDEAUX ou BORDEAUX" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3237-place-1> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3250> skos:prefLabel "Bourg-en-Bresse" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3250-place-1> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3256> skos:prefLabel "BOURGES" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3256-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3256-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3256-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3256-place-4> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3704> skos:prefLabel "BREST" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3704-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3704-place-2> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3796> skos:prefLabel "Brieux (St.)" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3796-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3796-place-2> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3881> skos:prefLabel "BRIVE la Gaillarde" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3881-place-1> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-4616> skos:prefLabel "CAEN" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-4616-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-4616-place-2> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-4736> skos:prefLabel "CALAIS" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-4736-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-4736-place-2> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-4738> skos:prefLabel "Calais (Saint)" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-4738-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-4738-place-2> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-5675> skos:prefLabel "CARHAIX" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-5675-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-5675-place-2> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-6021> skos:prefLabel "CASTELLANE" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-6021-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-6021-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-6021-place-3> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-63> skos:prefLabel "BACCARAT" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-63-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-63-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-63-place-3> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-6578> skos:prefLabel "CERNAY en Dormois" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-6578-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-6578-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-6578-place-3> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-191> skos:prefLabel "CHAMBÉRY" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-191-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-191-place-2> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2300> skos:prefLabel "CLAUDE (Saint)" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2300-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2300-place-2> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2388> skos:prefLabel "CLERMONT" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2388-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2388-place-2> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2389> skos:prefLabel "Clermont en Argonne" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2389-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2389-place-2> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2390> skos:prefLabel "Clermont" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2390-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2390-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2390-place-3> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2982> skos:prefLabel "COLMAR" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2982-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2982-place-2> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/04-3264> skos:prefLabel "DAX ou ACQS" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/04-3264-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/04-3264-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/04-3264-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/04-3264-place-4> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/04-4955> skos:prefLabel "DIJON" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/04-4955-place-1> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/06-196> skos:prefLabel "Etienne (Saint-)" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/06-196-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/06-196-place-2> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2761> skos:prefLabel "GRAVELINES" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2761-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2761-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2761-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2761-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2761-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2925> skos:prefLabel "GRENOBLE" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2925-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2925-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2925-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2925-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2925-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-3166> skos:prefLabel "GUERET" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-3166-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-3166-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-3166-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-3166-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-3166-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-2425> skos:prefLabel "Jean de Luz, S." ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-2425-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-2425-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-2425-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-2425-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-2425-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-452> skos:prefLabel "Havre-de-Grace (le)" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-452-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-452-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-452-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-452-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-452-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1276> skos:prefLabel "LANION" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1276-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1276-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1276-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1276-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1276-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1773> skos:prefLabel "LENS, Lentium" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1773-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1773-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1773-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1773-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1773-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2500> skos:prefLabel "LILLE" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2500-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2500-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2500-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2500-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2500-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2569> skos:prefLabel "LIMOGES" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2569-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2569-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2569-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2569-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2569-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2945> skos:prefLabel "LODEVE" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2945-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2945-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2945-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2945-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2945-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-3348> skos:prefLabel "LOURDE, Laperdum" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-3348-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-3348-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-3348-place-3> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-3630> skos:prefLabel "LYON" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-3630-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-3630-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-3630-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-3630-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-3630-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-4339> skos:prefLabel "MALO, Saint, en latin moderne Macloviopolis" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-4339-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-4339-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-4339-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-4339-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-4339-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-656> skos:prefLabel "KIMPER, ou QUIMPER CORENTIN" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-656-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-656-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-656-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-656-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-656-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-1554> skos:prefLabel "MENDE" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-1554-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-1554-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-1554-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-1554-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-1554-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2021> skos:prefLabel "METS" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2021-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2021-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2021-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2021-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2021-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-243> skos:prefLabel "MANOSQUE" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-243-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-243-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-243-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-243-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-243-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-250> skos:prefLabel "MANS, le" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-250-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-250-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-250-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-250-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-250-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2996> skos:prefLabel "MONTPELLIER" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2996-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2996-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2996-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2996-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2996-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-624> skos:prefLabel "MARMANDE" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-624-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-624-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-624-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-624-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-624-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-730> skos:prefLabel "MARSEILLE" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-730-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-730-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-730-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-730-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-730-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-114> skos:prefLabel "NANCY" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-114-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-114-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-114-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-114-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-114-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-130> skos:prefLabel "Nantes" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-130-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-130-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-130-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-130-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-130-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-134> skos:prefLabel "NANTUA" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-134-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-134-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-134-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-134-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-134-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-161> skos:prefLabel "NARBONNE" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-161-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-161-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-161-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-161-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-161-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-2658> skos:prefLabel "Orange" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-2658-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-2658-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-2658-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-2658-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-2658-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-634> skos:prefLabel "NEUFCHATEAU" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-634-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-634-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-634-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-634-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-634-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-718> skos:prefLabel "Nice" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-718-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-718-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-718-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-718-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-718-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-1587> skos:prefLabel "PERPIGNAN" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-1587-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-1587-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-1587-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-1587-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-1587-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-3998> skos:prefLabel "POITIERS" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-3998-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-3998-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-3998-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-3998-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-3998-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-4076> skos:prefLabel "POLIGNY" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-4076-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-4076-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-4076-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-4076-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-4076-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-648> skos:prefLabel "PAU" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-648-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-648-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-648-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-648-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-648-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2365> skos:prefLabel "PUY, le" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2365-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2365-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2365-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2365-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2365-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2368> skos:prefLabel "PUY-LAURENS" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2368-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2368-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2368-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2368-place-4> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2369> skos:prefLabel "PUY-L'EVÊQUE" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2369-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2369-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2369-place-3> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1480> skos:prefLabel "RHEIMS ou REIMS" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1480-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1480-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1480-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1480-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1480-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1935> skos:prefLabel "ROCHELLE, la" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1935-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1935-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1935-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1935-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1935-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1974> skos:prefLabel "RODEZ" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1974-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1974-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1974-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1974-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1974-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-2431> skos:prefLabel "ROUEN" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-2431-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-2431-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-2431-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-2431-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-2431-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-2597> skos:prefLabel "ROYAN" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-2597-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-2597-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-2597-place-3> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-3309> skos:prefLabel "SALINS" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-3309-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-3309-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-3309-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-3309-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-3309-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-575> skos:prefLabel "RENNES" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-575-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-575-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-575-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-575-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-575-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-2635> skos:prefLabel "STRASBOURG" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-2635-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-2635-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-2635-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-2635-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-2635-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-4366> skos:prefLabel "TARBES, ou TARBE" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-4366-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-4366-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-4366-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-4366-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-4366-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2279> skos:prefLabel "TOULON" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2279-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2279-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2279-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2279-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2279-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2282> skos:prefLabel "TOULOUSE" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2282-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2282-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2282-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2282-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2282-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2448> skos:prefLabel "TOURS" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2448-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2448-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2448-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2448-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2448-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-3662> skos:prefLabel "TROYES" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-3662-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-3662-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-3662-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-3662-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-3662-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4272> skos:prefLabel "Valence" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4272-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4272-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4272-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4272-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4272-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4273> skos:prefLabel "Valence" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4273-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4273-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4273-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4273-place-4> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4274> skos:prefLabel "Valence" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4274-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4274-place-2> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4275> skos:prefLabel "Valence" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4275-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4275-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4275-place-3> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4278> skos:prefLabel "VALENCÉ ou VALENCEY" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4278-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4278-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4278-place-3> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-417> skos:prefLabel "VERSAILLES" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-417-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-417-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-417-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-417-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-417-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-773> skos:prefLabel "Vienne" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-773-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-773-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-773-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-773-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-773-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-923> skos:prefLabel "Ville-Franche" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-923-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-923-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-923-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-923-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-923-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-924> skos:prefLabel "Ville-Franche" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-924-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-924-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-924-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-924-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-924-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-925> skos:prefLabel "Ville-Franche" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-925-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-925-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-925-place-3> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-926> skos:prefLabel "Ville-Franche" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-926-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-926-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-926-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-926-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-926-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-927> skos:prefLabel "Ville-Franche" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-927-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-927-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-927-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-927-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-927-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-928> skos:prefLabel "Ville-Franche de Panat" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-928-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-928-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-928-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-928-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-928-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-929> skos:prefLabel "Ville-Franche" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-929-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-929-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-929-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-929-place-4>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-929-place-5> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-930> skos:prefLabel "Ville-Franche" ;
+    skos:related <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-930-place-1>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-930-place-2>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-930-place-3>,
+        <https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-930-place-4> .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1103-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1103-place-2> skos:prefLabel "Agénois" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1103-place-3> skos:prefLabel "Guienne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1103-place-4> skos:prefLabel "Garonne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1279-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1279-place-2> skos:prefLabel "haute Normandie" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1279-place-3> skos:prefLabel "Evreux" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1279-place-4> skos:prefLabel "Rouen" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1497-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1497-place-2> skos:prefLabel "Provence" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1497-place-3> skos:prefLabel "Arc" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1498-place-1> skos:prefLabel "Savoye" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1498-place-2> skos:prefLabel "Bourget" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1499-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1499-place-2> skos:prefLabel "le Limosin" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-1499-place-3> skos:prefLabel "Marche" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-2233-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-2233-place-2> skos:prefLabel "Picardie sur la Somme" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-2689-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-2689-place-2> skos:prefLabel "Anjou" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-2689-place-3> skos:prefLabel "Loire" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-2717-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-2717-place-2> skos:prefLabel "Angoumois" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-3583-place-1> skos:prefLabel "latitude" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-4029-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-4029-place-2> skos:prefLabel "Beauce" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-4977-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-4977-place-2> skos:prefLabel "Rhone" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-5076-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-5076-place-2> skos:prefLabel "basse Auvergne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-5155-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/01-5155-place-2> skos:prefLabel "Yonne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-1783-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-1783-place-2> skos:prefLabel "Besançon" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-1783-place-3> skos:prefLabel "Besançon" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-240-place-1> skos:prefLabel "ville maritime d' Espagne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-240-place-2> skos:prefLabel "Minho" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-240-place-3> skos:prefLabel "Orense" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3237-place-1> skos:prefLabel "France sur la Garonne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3250-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3256-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3256-place-2> skos:prefLabel "Berry" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3256-place-3> skos:prefLabel "Auron" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3256-place-4> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3704-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3704-place-2> skos:prefLabel "Océan" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3796-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3796-place-2> skos:prefLabel "haute Bretagne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-3881-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-4616-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-4616-place-2> skos:prefLabel "basse Normandie" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-4736-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-4736-place-2> skos:prefLabel "Picardie" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-4738-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-4738-place-2> skos:prefLabel "Maine" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-5675-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-5675-place-2> skos:prefLabel "basse Bretagne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-6021-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-6021-place-2> skos:prefLabel "Provence" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-6021-place-3> skos:prefLabel "Senez" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-63-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-63-place-2> skos:prefLabel "Lorraine" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-63-place-3> skos:prefLabel "Meurte" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-6578-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-6578-place-2> skos:prefLabel "Champagne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/02-6578-place-3> skos:prefLabel "Rheims" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-191-place-1> skos:prefLabel "Savoie" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-191-place-2> skos:prefLabel "Albans" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2300-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2300-place-2> skos:prefLabel "Lison" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2388-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2388-place-2> skos:prefLabel "Auvergne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2389-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2389-place-2> skos:prefLabel "Verdunois" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2390-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2390-place-2> skos:prefLabel "Beauvoisis" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2390-place-3> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2982-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/03-2982-place-2> skos:prefLabel "Ill" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/04-3264-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/04-3264-place-2> skos:prefLabel "Gascogne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/04-3264-place-3> skos:prefLabel "Landes" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/04-3264-place-4> skos:prefLabel "Adour" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/04-4955-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/06-196-place-1> skos:prefLabel "Forez" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/06-196-place-2> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2761-place-1> skos:prefLabel "Grevelingen" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2761-place-2> skos:prefLabel "Flandre" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2761-place-3> skos:prefLabel "Artois" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2761-place-4> skos:prefLabel "Nieuport" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2761-place-5> skos:prefLabel "Valois" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2925-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2925-place-2> skos:prefLabel "Dauphiné" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2925-place-3> skos:prefLabel "Vienne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2925-place-4> skos:prefLabel "Grenoble" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-2925-place-5> skos:prefLabel "Isere" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-3166-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-3166-place-2> skos:prefLabel "Limoges" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-3166-place-3> skos:prefLabel "Antoine" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-3166-place-4> skos:prefLabel "Gueret" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/07-3166-place-5> skos:prefLabel "Paris" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-2425-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-2425-place-2> skos:prefLabel "Gascogne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-2425-place-3> skos:prefLabel "Espagne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-2425-place-4> skos:prefLabel "Fontarabie" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-2425-place-5> skos:prefLabel "Bayonne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-452-place-1> skos:prefLabel "ville maritime de France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-452-place-2> skos:prefLabel "Caux" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-452-place-3> skos:prefLabel "Seine" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-452-place-4> skos:prefLabel "Caën" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/08-452-place-5> skos:prefLabel "Roüen" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1276-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1276-place-2> skos:prefLabel "basse Bretagne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1276-place-3> skos:prefLabel "Manche" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1276-place-4> skos:prefLabel "Treguier" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1276-place-5> skos:prefLabel "Morlaix" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1773-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1773-place-2> skos:prefLabel "Artois" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1773-place-3> skos:prefLabel "Lens" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1773-place-4> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-1773-place-5> skos:prefLabel "Pyrénées" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2500-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2500-place-2> skos:prefLabel "Flandre" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2500-place-3> skos:prefLabel "Europe" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2500-place-4> skos:prefLabel "Lille" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2500-place-5> skos:prefLabel "Lille" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2569-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2569-place-2> skos:prefLabel "Limousin" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2569-place-3> skos:prefLabel "Bourges" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2569-place-4> skos:prefLabel "Angleterre" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2569-place-5> skos:prefLabel "Bretigny" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2945-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2945-place-2> skos:prefLabel "bas Languedoc" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2945-place-3> skos:prefLabel "Narbonne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2945-place-4> skos:prefLabel "Languedoc" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-2945-place-5> skos:prefLabel "Languedoc" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-3348-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-3348-place-2> skos:prefLabel "Gascogne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-3348-place-3> skos:prefLabel "Lavedan" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-3630-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-3630-place-2> skos:prefLabel "Paris" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-3630-place-3> skos:prefLabel "Lugdunum" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-3630-place-4> skos:prefLabel "Lugudunum" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-3630-place-5> skos:prefLabel "Lugdunum" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-4339-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-4339-place-2> skos:prefLabel "Bretagne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-4339-place-3> skos:prefLabel "Tours" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-4339-place-4> skos:prefLabel "Espagne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-4339-place-5> skos:prefLabel "Canada" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-656-place-1> skos:prefLabel "Kimper" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-656-place-2> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-656-place-3> skos:prefLabel "Tours" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-656-place-4> skos:prefLabel "Brest" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/09-656-place-5> skos:prefLabel "Rennes" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-1554-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-1554-place-2> skos:prefLabel "Gévaudan" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-1554-place-3> skos:prefLabel "Albi" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-1554-place-4> skos:prefLabel "Lot" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-1554-place-5> skos:prefLabel "Albi" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2021-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2021-place-2> skos:prefLabel "Treves" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2021-place-3> skos:prefLabel "Divodurum" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2021-place-4> skos:prefLabel "Médiomatrices" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2021-place-5> skos:prefLabel "Ammian Marcellin" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-243-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-243-place-2> skos:prefLabel "Provence sur la Durance" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-243-place-3> skos:prefLabel "Forcalquier" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-243-place-4> skos:prefLabel "S. de Forcalquier" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-243-place-5> skos:prefLabel "Paris" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-250-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-250-place-2> skos:prefLabel "Maine" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-250-place-3> skos:prefLabel "Suindinum" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-250-place-4> skos:prefLabel "Gaule" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-250-place-5> skos:prefLabel "Tours" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2996-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2996-place-2> skos:prefLabel "Languedoc" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2996-place-3> skos:prefLabel "Toulouse" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2996-place-4> skos:prefLabel "Maguelone" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-2996-place-5> skos:prefLabel "Maguelone" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-624-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-624-place-2> skos:prefLabel "Guienne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-624-place-3> skos:prefLabel "Garonne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-624-place-4> skos:prefLabel "Agen" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-624-place-5> skos:prefLabel "Bordeaux" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-730-place-1> skos:prefLabel "ville maritime de France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-730-place-2> skos:prefLabel "Provence" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-730-place-3> skos:prefLabel "Arles" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-730-place-4> skos:prefLabel "Ionie" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/10-730-place-5> skos:prefLabel "Méditerranée" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-114-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-114-place-2> skos:prefLabel "Lorraine" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-114-place-3> skos:prefLabel "Nancy" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-114-place-4> skos:prefLabel "Morat" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-114-place-5> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-130-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-130-place-2> skos:prefLabel "Bretagne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-130-place-3> skos:prefLabel "Tours" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-130-place-4> skos:prefLabel "Angers" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-130-place-5> skos:prefLabel "Rochelle" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-134-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-134-place-2> skos:prefLabel "Bugey" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-134-place-3> skos:prefLabel "hautes montagnes" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-134-place-4> skos:prefLabel "Nantua" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-134-place-5> skos:prefLabel "Cenis" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-161-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-161-place-2> skos:prefLabel "bas Languedoc" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-161-place-3> skos:prefLabel "Languedoc" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-161-place-4> skos:prefLabel "Narbonne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-161-place-5> skos:prefLabel "Perpignan" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-2658-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-2658-place-2> skos:prefLabel "Dauphiné" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-2658-place-3> skos:prefLabel "Arles" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-2658-place-4> skos:prefLabel "Nassau" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-2658-place-5> skos:prefLabel "Fréderic" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-634-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-634-place-2> skos:prefLabel "Lorraine" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-634-place-3> skos:prefLabel "Neufchateau" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-634-place-4> skos:prefLabel "Mouzon" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-634-place-5> skos:prefLabel "Toul" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-718-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-718-place-2> skos:prefLabel "Italie" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-718-place-3> skos:prefLabel "Savoie" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-718-place-4> skos:prefLabel "Savoie" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/11-718-place-5> skos:prefLabel "Berwick" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-1587-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-1587-place-2> skos:prefLabel "Roussillon" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-1587-place-3> skos:prefLabel "Perpignan" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-1587-place-4> skos:prefLabel "Narbonne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-1587-place-5> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-3998-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-3998-place-2> skos:prefLabel "Poitou" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-3998-place-3> skos:prefLabel "Clain" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-3998-place-4> skos:prefLabel "Tours" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-3998-place-5> skos:prefLabel "Orléans" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-4076-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-4076-place-2> skos:prefLabel "Besançon" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-4076-place-3> skos:prefLabel "Poligny" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-4076-place-4> skos:prefLabel "Poligny" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-4076-place-5> skos:prefLabel "Poligny" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-648-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-648-place-2> skos:prefLabel "Béarn" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-648-place-3> skos:prefLabel "Tarbes" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-648-place-4> skos:prefLabel "Bordeaux" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/12-648-place-5> skos:prefLabel "Paris" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2365-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2365-place-2> skos:prefLabel "Languedoc" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2365-place-3> skos:prefLabel "Vélay" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2365-place-4> skos:prefLabel "Toulouse" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2365-place-5> skos:prefLabel "Paris" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2368-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2368-place-2> skos:prefLabel "Languedoc" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2368-place-3> skos:prefLabel "Lavaur" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2368-place-4> skos:prefLabel "Nantes" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2369-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2369-place-2> skos:prefLabel "Quercy" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/13-2369-place-3> skos:prefLabel "Cahors" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1480-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1480-place-2> skos:prefLabel "Champagne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1480-place-3> skos:prefLabel "Rémois" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1480-place-4> skos:prefLabel "Châlons" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1480-place-5> skos:prefLabel "Nancy" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1935-place-1> skos:prefLabel "ville maritime de France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1935-place-2> skos:prefLabel "Aunis" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1935-place-3> skos:prefLabel "Océan" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1935-place-4> skos:prefLabel "Bordeaux" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1935-place-5> skos:prefLabel "Paris" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1974-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1974-place-2> skos:prefLabel "Guyenne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1974-place-3> skos:prefLabel "Rouergue" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1974-place-4> skos:prefLabel "Albi" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-1974-place-5> skos:prefLabel "Toulouse" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-2431-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-2431-place-2> skos:prefLabel "Normandie" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-2431-place-3> skos:prefLabel "Seine" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-2431-place-4> skos:prefLabel "Amiens" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-2431-place-5> skos:prefLabel "Paris" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-2597-place-1> skos:prefLabel "Saintonge" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-2597-place-2> skos:prefLabel "Garonne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-2597-place-3> skos:prefLabel "Gironde" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-3309-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-3309-place-2> skos:prefLabel "montagnes" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-3309-place-3> skos:prefLabel "Besançon" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-3309-place-4> skos:prefLabel "Suisse" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-3309-place-5> skos:prefLabel "Autriche" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-575-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-575-place-2> skos:prefLabel "Bretagne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-575-place-3> skos:prefLabel "Lille" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-575-place-4> skos:prefLabel "Nantes" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/14-575-place-5> skos:prefLabel "Paris" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-2635-place-1> skos:prefLabel "Gég" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-2635-place-2> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-2635-place-3> skos:prefLabel "Alsace" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-2635-place-4> skos:prefLabel "Ill" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-2635-place-5> skos:prefLabel "Nancy" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-4366-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-4366-place-2> skos:prefLabel "Bigorre" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-4366-place-3> skos:prefLabel "Adour" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-4366-place-4> skos:prefLabel "levant de Pau" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/15-4366-place-5> skos:prefLabel "Bigorre" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2279-place-1> skos:prefLabel "mer de France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2279-place-2> skos:prefLabel "Provence" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2279-place-3> skos:prefLabel "Méditerranée" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2279-place-4> skos:prefLabel "Marseille" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2279-place-5> skos:prefLabel "Aix" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2282-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2282-place-2> skos:prefLabel "haut Languedoc" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2282-place-3> skos:prefLabel "Languedoc" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2282-place-4> skos:prefLabel "Garonne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2282-place-5> skos:prefLabel "Grece" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2448-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2448-place-2> skos:prefLabel "Touraine" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2448-place-3> skos:prefLabel "Loire" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2448-place-4> skos:prefLabel "Cher" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-2448-place-5> skos:prefLabel "Tours" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-3662-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-3662-place-2> skos:prefLabel "Champagne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-3662-place-3> skos:prefLabel "Seine" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-3662-place-4> skos:prefLabel "Rheims" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-3662-place-5> skos:prefLabel "Paris" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4272-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4272-place-2> skos:prefLabel "Dauphiné" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4272-place-3> skos:prefLabel "Valentinois" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4272-place-4> skos:prefLabel "Rhône" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4272-place-5> skos:prefLabel "Die" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4273-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4273-place-2> skos:prefLabel "Agénois" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4273-place-3> skos:prefLabel "Garonne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4273-place-4> skos:prefLabel "Aurignac" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4274-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4274-place-2> skos:prefLabel "Auch" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4275-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4275-place-2> skos:prefLabel "haut Languedoc" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4275-place-3> skos:prefLabel "Alby" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4278-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4278-place-2> skos:prefLabel "Berry" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/16-4278-place-3> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-417-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-417-place-2> skos:prefLabel "Paris" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-417-place-3> skos:prefLabel "Paris" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-417-place-4> skos:prefLabel "Versailles" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-417-place-5> skos:prefLabel "Versailles" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-773-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-773-place-2> skos:prefLabel "Dauphiné" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-773-place-3> skos:prefLabel "Rhône" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-773-place-4> skos:prefLabel "Lyon" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-773-place-5> skos:prefLabel "Grenoble" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-923-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-923-place-2> skos:prefLabel "Beaujolois" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-923-place-3> skos:prefLabel "Lyon" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-923-place-4> skos:prefLabel "Mâcon" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-923-place-5> skos:prefLabel "Saône" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-924-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-924-place-2> skos:prefLabel "Bourbonnois" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-924-place-3> skos:prefLabel "Montluçon" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-924-place-4> skos:prefLabel "Montluçon" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-924-place-5> skos:prefLabel "Hauterive" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-925-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-925-place-2> skos:prefLabel "haut Languedoc" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-925-place-3> skos:prefLabel "Alby" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-926-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-926-place-2> skos:prefLabel "Roussillon" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-926-place-3> skos:prefLabel "Pyrénées" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-926-place-4> skos:prefLabel "Tet" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-926-place-5> skos:prefLabel "Perpignan" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-927-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-927-place-2> skos:prefLabel "Rouergue" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-927-place-3> skos:prefLabel "Rodès" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-927-place-4> skos:prefLabel "Cahors" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-927-place-5> skos:prefLabel "Montauban" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-928-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-928-place-2> skos:prefLabel "Rouergue" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-928-place-3> skos:prefLabel "Dordon" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-928-place-4> skos:prefLabel "Tarn" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-928-place-5> skos:prefLabel "Rodès" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-929-place-1> skos:prefLabel "France" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-929-place-2> skos:prefLabel "Champagne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-929-place-3> skos:prefLabel "Argonne" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-929-place-4> skos:prefLabel "Meuse" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-929-place-5> skos:prefLabel "Stenay" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-930-place-1> skos:prefLabel "Nice" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-930-place-2> skos:prefLabel "Méditerranée" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-930-place-3> skos:prefLabel "Nice" .
+
+<https://github.com/antoineOYO/toponym-disambiguation/blob/main/17-930-place-4> skos:prefLabel "Monaco" .
+
